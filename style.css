@@ -1,1 +1,22 @@
+body{
 
+background-color: var(purple);
+}
+
+main{
+margin: 20px
+text-align center;
+max-width: 50;
+}
+
+
+button{
+background-color: var(rgb(158, 76, 190));
+font-size: 23px;
+padding: 4px;
+border-radius: 10px;
+margin: 5px;
+color: black;
+box-shadow: 2px 2px 5px black;
+
+}
